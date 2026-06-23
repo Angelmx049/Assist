@@ -9,4 +9,3 @@ Proyecto web y móvil para la administración de tareas operativas, checklist, n
 - frontend-mobile: aplicación móvil en React Native.
 - shared: código compartido entre web y móvil.
 - database: scripts de base de datos.
-- docs: documentación del proyecto.
